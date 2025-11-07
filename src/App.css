@@ -56,9 +56,19 @@ nav img {
   width: 200px;
 }
 
+nav a {
+  text-decoration: none;
+  color: black;
+}
+
 nav ul li {
   display: inline-block;
   padding: 1em;
+}
+
+ul li {
+  list-style: none;
+  padding: 0.5em 0;
 }
 
 header {
